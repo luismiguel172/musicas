@@ -1,8 +1,8 @@
 #Musicas 
 
-Letras de musicas nacionais e internacionais
+*Letras de musicas nacionais e internacionais
 
-Musicas:Only love can hurt like this
-        Indios 
-        Acorda Pedrinho
-        Coração Cigano
+*Musicas:Only love can hurt like this
+ *       Indios 
+ *       Acorda Pedrinho
+ *       Coração Cigano
